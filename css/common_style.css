@@ -1,0 +1,35 @@
+body {
+    background-color: gray;
+}
+div.tieu_de {
+    width: 800px;
+
+    text-align: center;
+    margin: auto;
+    position: sticky;
+    top: 0;
+    
+    background-color: lightblue;
+}
+
+div.nav {
+    width: 100px;
+    position: sticky;
+    top: 75px;
+    background-color: lightgrey;
+}
+
+div.noi_dung {
+    width: 650px;
+    background-color: lightsalmon;
+}
+
+div.chan_trang {
+    width: 800px;
+
+    float: bottom right;
+    margin: auto;
+    text-align: right;
+    
+    background-color: lightcyan;
+}
